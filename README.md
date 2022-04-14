@@ -38,7 +38,7 @@ cd material-one-dark
 ```
 
 ```sh
-code --install-extension material-one-dark-1.2.0.vsix
+code --install-extension material-one-dark-vscode-1.2.0.vsix
 ```
 
 3.Select theme from your vscode color palette

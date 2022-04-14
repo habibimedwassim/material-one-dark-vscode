@@ -4,7 +4,7 @@
     "description": "VSCode Material dark theme with One Dark syntax colors",
     "publisher": "HabibiMedWassim",
     "author": {"name": "Habibi Med Wassim"},
-    "version": "1.1.0",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.66.0"
     },

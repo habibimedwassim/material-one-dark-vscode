@@ -1,0 +1,42 @@
+{
+    "name": "material-one-dark",
+    "displayName": "Material One Dark",
+    "description": "VSCode Material dark theme with One Dark syntax colors",
+    "publisher": "HabibiMedWassim",
+    "author": {"name": "Habibi Med Wassim"},
+    "version": "1.1.0",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Material One Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Material One Dark-color-theme.json"
+            }
+        ]
+    },
+    "repository": {"type": "git","url": "https://github.com/habibimedwassim/material-one-dark"},
+    "bugs": {"url": "https://github.com/habibimedwassim/material-one-dark/issues"},
+    "icon": "icon/icon.png","galleryBanner": {
+        "color": "#252525",
+        "theme": "dark"
+    },
+    "keywords": [
+        "One Dark",
+        "One",
+        "Dark",
+        "Dark Theme",
+        "dark",
+        "onedark",
+        "Material",
+        "material",
+        "materialtheme",
+        "black",
+        "grey"
+    ]
+}

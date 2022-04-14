@@ -28,7 +28,7 @@ This Theme is mainly made for me but it's too awesome to keep it just for myself
 1.Clone the repo
 
 ```sh
-git clone https://github.com/habibimedwassim/material-one-dark-vscode-vscode.git
+git clone https://github.com/habibimedwassim/material-one-dark-vscode.git
 ```
 
 2.Copy & paste the following:

@@ -1,5 +1,5 @@
 {
-    "name": "material-one-dark",
+    "name": "material-one-dark-vscode",
     "displayName": "Material One Dark",
     "description": "VSCode Material dark theme with One Dark syntax colors",
     "publisher": "HabibiMedWassim",
@@ -20,8 +20,8 @@
             }
         ]
     },
-    "repository": {"type": "git","url": "https://github.com/habibimedwassim/material-one-dark"},
-    "bugs": {"url": "https://github.com/habibimedwassim/material-one-dark/issues"},
+    "repository": {"type": "git","url": "https://github.com/habibimedwassim/material-one-dark-vscode"},
+    "bugs": {"url": "https://github.com/habibimedwassim/material-one-dark-vscode/issues"},
     "icon": "icon/icon.png","galleryBanner": {
         "color": "#252525",
         "theme": "dark"
